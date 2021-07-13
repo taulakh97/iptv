@@ -1,504 +1,186 @@
-group,Tamil Entertainment
-ext,Sun TV(Airtel),https://load.airtelxstream.in/suntv/smil:common.smil/playlist.m3u8?DVR
-ext,Sun TV HD(Airtel),https://load.airtelxstream.in/suntvhd/smil:common.smil/manifest.mpd
-ext,Vasanth TV(Airtel),https://load.airtelxstream.in/vasanthtv/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Tamil(Airtel),https://load.airtelxstream.in/zeetamil/smil:common.smil/manifest.mpd
-ext,Zee Tamil HD(Airtel),https://load.airtelxstream.in/zeetamilhd/smil:common.smil/manifest.mpd
-ext,Adithya TV(Airtel),https://load.airtelxstream.in/adithyatv/smil:common.smil/playlist.m3u8?DVR
-ext,Colors Tamil(Airtel),https://load.airtelxstream.in/colorstamil/smil:common.smil/manifest.mpd
-ext,DD Podhigai(Airtel),https://load.airtelxstream.in/ddpodhigai/smil:common.smil/playlist.m3u8?DVR
-ext,Kalaignar TV(Airtel),https://load.airtelxstream.in/kalaignartv/smil:common.smil/playlist.m3u8?DVR
-ext,Polimer TV(Airtel),https://load.airtelxstream.in/polimertv/smil:common.smil/playlist.m3u8?DVR
-ext,Puthu Yugam(Airtel),https://load.airtelxstream.in/puthuyugam/smil:common.smil/playlist.m3u8?DVR
-ext,Raj TV(Airtel),https://load.airtelxstream.in/rajtv/smil:common.smil/playlist.m3u8?DVR
-ext,Sirippoli(Airtel),https://load.airtelxstream.in/sirippoli/smil:common.smil/playlist.m3u8?DVR
+group,Channels
+ext,UK: BBC alba HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4806
+Boomerang.uk,UK: BoomeRang,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4807
+SkyBrits.uk,UK: Sky Cinema Greats HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4808
+SkyCinemaThriller.uk,UK: Sky Cinema Crime & Thriller HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4809
+SkySciFiHorror.uk,UK: Sky Cinema Sci-fi & Horror HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4810
+SkyMoviesPremiere.uk,UK: Sky Cinema Premier HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4811
+SkyMoviesDisney.uk,UK: Sky Cinema Disney FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4812
+SkyAtlantic.uk,UK: SKY Atlantic HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4813
+Sky2.uk,UK: SKY Two HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4814
+Nickelodeon.uk,UK: Nickelodeon,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4815
+NatGeoWild.uk,UK: Nat Geo Wild HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4816
+ITV4.uk,UK: ITV 4,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4817
+ITV3.uk,UK: ITV 3,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4818
+ITV2.uk,UK: ITV 2 HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4819
+ITV1London.uk,UK: ITV 1,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4820
+History.uk,UK: History Channel,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4821
+DisneyJunior.uk,UK: Disney Junior,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4822
+DiscoveryHistory.uk,UK: Discovery History,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4823
+CBSReality.uk,UK: CBS Reality,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4824
+CBSDrama.uk,UK: CBS Drama,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4825
+CBSAction.uk,UK: CBS Action,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4826
+NationalGeographic.uk,UK: National Geographic Channel,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4827
+NickJunior.uk,UK: Nick Jr,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4828
+Discovery.uk,UK: Discovery Channel,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4829
+SkyMoviesDrama.uk,UK: Sky Cinema Drama FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4830
+W.uk,UK: Watch,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4831
+Channel5.uk,UK: CHANNEL 5,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4832
+BBC4.uk,UK: BBC 4 HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4833
+ext,UK: TLC-IRELAND,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4834
+SkyMoviesActionThriller.uk,UK: Sky Cinema Action FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4835
+ext,UK: BBC entertainment HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4836
+Dave.uk,UK: Dave,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4837
+GoodFood.uk,UK: Good Food,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4838
+Alibi.uk,UK: Alibi,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4839
+SkyCinemaHits.uk,UK: Sky Cinema Hits HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4840
+TLC.uk,UK: TLC,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4841
+PickTV.uk,UK: PICK,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4842
+DiscoveryTurbo.uk,UK: Discovery Turbo,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4843
+DiscoveryScience.uk,UK: Discovery Science,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4844
+Channel4.uk,UK: Channel 4,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4846
+FiveUSA.uk,UK: 5 USA,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4847
+SkyNews.uk,UK: Sky News HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4848
+MUTV.uk,UK: MuTV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4849
+Lifetime.uk,UK: LifeTime,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4850
+DisneyXD.uk,UK: Disney XD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4851
+Sky1.uk,UK: Sky One HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4852
+ChelseaTV.uk,UK: Chelsea TV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4853
+BBCOneHD.uk,UK: BBC one FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4854
+BBC2.uk,UK: BBC two HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4855
+ext,UK: BBC World News HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4856
+Really.uk,UK: REALLY,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4857
+ITVBe.uk,UK: ITVBE,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4858
+LiverpoolFCTV.uk,UK: Liverpool FC,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4860
+SkyMoviesFamily.uk,UK: Sky Cinema Family HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4861
+TrueMovies.uk,UK: True Movies 1,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4862
+SkyMoviesIndie.uk,UK: Sky Cinema Select HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4863
+Film4.uk,UK: Film 4 HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4864
+ext,UK: Al Jazeera English FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4865
+BabyTV.uk,UK: Baby TV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4866
+Nicktoons.uk,UK: Nicktoons,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4867
+MTVBase.uk,UK: MTV Base,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4868
+MTVHits.uk,UK: MTV Hits,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4869
+ext,UK: VH1 Classis,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4870
+TCM.uk,UK: TCM (film),http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4871
+RTE1.ie,UK: RTE One,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4872
+RTE2.ie,UK: RTE Two,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4873
+SonyCrimeChannel.uk,UK: SONY TV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4874
+ext,UK: HBO,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4875
+ext,UK: HBO Comedy HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4876
+SCIFI.uk,UK: SYFY,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4877
+ext,UK: Star Gold UK,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4878
+GOLD.uk,UK: Gold TV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4880
+FX.uk,UK: FOX FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4881
+More4.uk,UK: More4,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4882
+E.uk,UK: E!,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4883
+MTV.uk,UK: MTV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4885
+Investigation.uk,UK: INVESTIGATION DISCOVERY,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4887
+ext,UK: MTV OMG,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4888
+Yesterday.uk,UK: Yesterday TV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4889
+RacingUK.uk,UK: Racing UK (Full HD),http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4890
+ext,UK: Sky Witness,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4891
+StarzTV.uk,UK: STARZ TV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4892
+Drama.uk,UK: DRAMA,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4893
+ext,UK: Star Bharat UK,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4894
+BLAZE.uk,UK: Blaze,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4896
+ext,UK: Box Hits HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4897
+VICELAND.uk,UK: Viceland,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4898
+Kerrang.uk,UK: Kerrang!,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4899
+ext,UK: Kiss UK,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4900
+ext,UK: Trace Africa,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4901
+VH1UK.uk,UK: VH1,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4902
+Cartoonito.uk,UK: Cartoonito,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4903
+ext,UK: BBC CBeebies HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4905
+Magic.uk,UK: Magic TV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4906
+ComedyCentralExtra.uk,UK: Comedy Central Extra,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4907
+ext,UK: Trace Mziki,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4908
+ext,UK: Trace Naija,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4909
+ext,UK: Trace Kitoko,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4910
+ext,UK: Trace Urban,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4911
+BTSportESPN.uk,UK: BT Sport ESPN HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4914
+SkySportsNews.uk,UK: SKY SPORTS NEWS,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4915
+ext,UK: SKY SPORTS RACING,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4916
+ext,UK: BT Sport Extra 1,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4917
+ext,UK: BT Sport Extra 2,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4918
+ext,UK: BT Sport Extra 3,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4919
+ext,UK: BT Sport Extra 4,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4920
+ext,UK: BT Sport Extra 5,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4921
+eirSport1.ie,UK: Eir Sport 1,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4922
+PremierSports.uk,UK: Premier Sports,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4923
+BTSport1.uk,UK: BT Sport 1 HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4924
+BTSport2.uk,UK: BT Sport 2 HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4925
+BTSport3.uk,UK: BT Sport 3 HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4926
+SkySpPL.uk,UK: SKY SPORTS PREMIER LEAGUE,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4927
+SkySpMainEv.uk,UK: SKY SPORTS MAIN EVENT HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4928
+SkySpCricket.uk,UK: SKY SPORTS CRICKET FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4929
+SkySpAction.uk,UK: SKY SPORTS ACTION FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4930
+SkySpTheOpen.uk,UK: SKY SPORTS GOLF FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4931
+SkySpFball.uk,UK: SKY SPORTS FOOTBALL FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4932
+SkySpArena.uk,UK: SKY SPORTS ARENA,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4933
+SkySpF1.uk,UK: SKY SPORTS F1 HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4934
+ext,UK: SKY SPORTS PREMIER LEAGUE (IRELAND),http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4935
+FreeSports.uk,UK: Free Sports,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4936
+eirSport2.ie,UK: Eir Sport 2,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4937
+ext,UK: EDGE SPORT HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4938
+SkySpMix.uk,UK: SKY SPORTS MIX,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4940
+ext,UK: Trace Tropical,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6239
+TravelChannel.uk,UK: Travel,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6240
+AnimalPlanet.uk,UK:Animal Planet,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6242
+ext,UK: Trace Toca,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6243
+Quest.uk,UK: Quest,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/6244
+LondonLive.uk,UK: London Live,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9905
+Nollywood.uk,UK: Nollywood,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9911
+QuestRed.uk,UK: Quest Red,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9915
+RealLives.uk,UK: Real Lives,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9916
+Rishtey.uk,UK: Rishtey,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9917
+ext,UK: ROK TV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9918
+S4C.uk,UK: S4C,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9922
+SabTV.uk,UK: Sab TV,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9923
+SonyCrimeChannel.uk,UK: Sony Entertainment (SET),http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9925
+Spike.uk,UK: spike,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9926
+StarJalsha.uk,UK: Star Jalsha,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9927
+StarPlus.uk,UK: Star Plus,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9928
+STV.uk,UK: STV HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9929
+ext,UK: Talking Pictures HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9930
+TG4.ie,UK: TG4,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9931
+TrueEntertainment.uk,UK: True Ent,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9932
+ext,UK: TV3 IR HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9933
+ext,UK: TV5,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9934
+Universal.uk,UK: Universal Channel HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9936
+UTVIreland.uk,UK: UTV Ireland,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9937
+Viva.uk,UK: VIVA,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9938
+VICELAND.uk,UK: Viceland HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9939
+W.uk,UK: W,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9940
+Zing.uk,UK: Zing,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9942
+BBC1Wales.uk,UK: BBC One Wales,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9943
+4Music.uk,UK: 4Music,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9944
+4Seven.uk,UK: 4seven,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9945
+HorseAndCountry.uk,UK: Horse and Country,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9904
+?TV.uk,UK: Motors,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9906
+ext,UK: UFC fight night Pass HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9935
+ext,UK: UFC Fight PASS,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9948
+FoodNetwork.uk,UK: Food Network,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9898
+ext,UK: Fine Living Network,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9899
+H2.uk,UK: H2 HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9901
+HomeandHealth.uk,UK: Home & Health,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9902
+ext,UK: RT Documentary HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9919
+ext,UK: DMAX HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9946
+NickJrPeppa.uk,UK: Nick JUNIOR Too,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9910
+pop.uk,UK: POP,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9914
+RTEjr.uk,UK: RTEjr,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9921
+tinypop.uk,UK: Tiny Pop,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9949
+SkyBrits.uk,UK: Sky Movies Modern FHD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9897
+HorrorChannel.uk,UK: Horror Channel,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9903
+ext,UK: Sony SET Max,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9924
+SkyMoviesIndie.uk,UK: Sky cinema Select,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9941
+Bloomberg.nws,UK: Bloomberg HD,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9896
+France24.fr,UK: France 24,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9900
+RTENewsNow.ie,UK: RTE News Now,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9920
+MTVClassic.uk,UK: MTV Classic,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9907
+MTVDance.uk,UK: MTV Dance,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9908
+MTVMusic.uk,UK: MTV Music,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9909
+MTVRocks.uk,UK: MTV Rocks,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/9947
+ext,UK: BET Star,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4884
+ext,UK: DW English,http://ankastream.com:8080/kortez-skype/B2if3NRDHdcP/4886
 
-group,Tamil Infotainment
-ext,Discovery(Airtel),https://load.airtelxstream.in/discoverykidstamil/smil:common.smil/manifest.mpd
-ext,DTamil(Airtel),https://load.airtelxstream.in/discoverytamil/smil:common.smil/manifest.mpd
-ext,Kalvi Tholaikatchi(Airtel),https://load.airtelxstream.in/kalvitv/smil:common.smil/playlist.m3u8?DVR
-
-group,Tamil Kids
-ext,Chutti TV(Airtel),https://load.airtelxstream.in/chuttitv/smil:common.smil/manifest.mpd
-ext,Sony Yay Tamil(Airtel),https://load.airtelxstream.in/sonyyaytamil/smil:common.smil/manifest.mpd
-
-group,Tamil Lifestyle
-ext,NDTV Good Times(Airtel),https://load.airtelxstream.in/ndtvgoodtimestamil/smil:common.smil/playlist.m3u8?DVR
-
-group,Tamil Movies
-ext,KTV(Hotstar),https://load.airtelxstream.in/ktv/smil:common.smil/playlist.m3u8?DVR
-ext,KTV HD(Hotstar),https://load.airtelxstream.in/ktvhd/smil:common.smil/manifest.mpd
-ext,Murasu(Hotstar),https://load.airtelxstream.in/murasu/smil:common.smil/manifest.mpd
-ext,Raj Digital Plus(Hotstar),https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/playlist.m3u8?DVR
-
-group,Tamil Music
-ext,Isai Aruvi(Airtel),https://load.airtelxstream.in/isaiaruvi/smil:common.smil/playlist.m3u8?DVR
-ext,Raj Musix Tamil(Airtel),https://load.airtelxstream.in/rajmusixtamil/smil:common.smil/manifest.mpd
-ext,Sun Life(Airtel),https://load.airtelxstream.in/sunlife/smil:common.smil/playlist.m3u8?DVR
-ext,Sun Music(Airtel),https://load.airtelxstream.in/sunmusic/smil:common.smil/playlist.m3u8?DVR
-ext,Sun Music HD(Airtel),https://load.airtelxstream.in/sunmusichd/smil:common.smil/manifest.mpd
-
-group,Tamil News
-ext,Makkal TV(Airtel),https://load.airtelxstream.in/makkaltv/smil:common.smil/playlist.m3u8?DVR
-ext,News 7 Tamil(Airtel),https://load.airtelxstream.in/news7tamil/smil:common.smil/playlist.m3u8?DVR
-ext,News J(Airtel),https://load.airtelxstream.in/newsj/smil:common.smil/playlist.m3u8?DVR
-ext,News18 Tamil Nadu(Airtel),https://load.airtelxstream.in/news18tamil/smil:common.smil/manifest.mpd
-ext,Puthiya Thalaimurai(Airtel),https://load.airtelxstream.in/puthiyathalaimurai/smil:common.smil/playlist.m3u8?DVR
-ext,Raj News(Airtel),https://load.airtelxstream.in/rajnewstamil/smil:common.smil/playlist.m3u8?DVR
-ext,Sathiyam TV(Airtel),https://load.airtelxstream.in/sathiyamtv/smil:common.smil/playlist.m3u8?DVR
-ext,Seithigal 24X7(Airtel),https://load.airtelxstream.in/seithigal247/smil:common.smil/playlist.m3u8?DVR
-ext,Sun News(Airtel),https://load.airtelxstream.in/sunnews/smil:common.smil/playlist.m3u8?DVR
-
-group,Tamil Religious
-ext,Angel TV HD(Airtel),https://load.airtelxstream.in/angeltv/smil:common.smil/playlist.m3u8
-ext,Aseervatham TV(Airtel),https://load.airtelxstream.in/aaseervathamtv/smil:common.smil/playlist.m3u8?DVR
-ext,Madha TV(Airtel),https://load.airtelxstream.in/madhatv/smil:common.smil/playlist.m3u8?DVR
-ext,Nambikkai TV(Airtel),https://load.airtelxstream.in/nambikkaitv/smil:common.smil/manifest.mpd
-ext,Sri Sankara(Airtel),https://load.airtelxstream.in/srisankara/smil:common.smil/playlist.m3u8?DVR
-
-group,English Educational
-ext,Kite Victers (Virtual Classroom)(Airtel),https://load.airtelxstream.in/victers/smil:common.smil/playlist.m3u8?DVR
-
-group,English Entertainment
-ext,Colors Infinity(Airtel),https://load.airtelxstream.in/colorsinfinity/smil:common.smil/manifest.mpd
-ext,Colors Infinity HD(Airtel),https://load.airtelxstream.in/colorsinfinityhd/smil:common.smil/manifest.mpd
-ext,Comedy Central(Airtel),https://load.airtelxstream.in/comedycentral/smil:common.smil/manifest.mpd
-ext,Comedy Central HD(Airtel),https://load.airtelxstream.in/comedycentralhd/smil:common.smil/manifest.mpd
-ext,TV5 Monde Asia(Airtel),https://load.airtelxstream.in/tv5mondeasia/smil:common.smil/manifest.mpd
-
-group,English Infotainment
-ext,Animal Planet(Airtel),https://load.airtelxstream.in/animalplanet/smil:common.smil/manifest.mpd
-ext,Animal Planet HD World(Airtel),https://load.airtelxstream.in/animalplanethdworld/smil:common.smil/manifest.mpd
-ext,Discovery HD World(Airtel),https://load.airtelxstream.in/discoveryhd/smil:common.smil/manifest.mpd
-ext,Discovery Science(Airtel),https://load.airtelxstream.in/discoveryscience/smil:common.smil/manifest.mpd
-ext,Discovery Turbo(Airtel),https://load.airtelxstream.in/discoveryturbo/smil:common.smil/manifest.mpd
-ext,History TV18(Airtel),https://load.airtelxstream.in/historytv18/smil:common.smil/manifest.mpd
-ext,History TV18 HD(Airtel),https://load.airtelxstream.in/historytv18hd/smil:common.smil/manifest.mpd
-ext,NDTV HOP Live(Airtel),https://load.airtelxstream.in/event?event_id=cFgXPqfdik3EK4RV8mVW&playsinline=1&wynk_app_webview_type=full&app=xstream&platform=android&uid=tempUID&did=tempDID/create?isWynk=true&&uid=G11Sans-RksL3m6Q_0&did=36c248b87d6ae33f
-ext,Sony BBC Earth HD English(Airtel),https://load.airtelxstream.in/sonybbcearthhdenglish/smil:common.smil/manifest.mpd
-
-group,English Kids
-ext,Cartoon Network(Airtel),https://load.airtelxstream.in/cartoonnetwork/smil:common.smil/manifest.mpd
-ext,Nick HD+(Airtel),https://load.airtelxstream.in/nickhdplus/smil:common.smil/manifest.mpd
-ext,Nick Junior(Airtel),https://load.airtelxstream.in/nickjr/smil:common.smil/manifest.mpd
-ext,Pogo(Airtel),https://load.airtelxstream.in/pogo/smil:common.smil/manifest.mpd
-ext,Sonic(Airtel),https://load.airtelxstream.in/sonic/smil:common.smil/manifest.mpd
-
-group,English Lifestyle
-ext,FTV(Airtel),https://load.airtelxstream.in/ftv/smil:common.smil/playlist.m3u8?DVR
-ext,NDTV Good Times(Airtel),https://load.airtelxstream.in/ndtvgoodtimes/smil:common.smil/playlist.m3u8?DVR
-ext,TLC(Airtel),https://load.airtelxstream.in/tlc/smil:common.smil/manifest.mpd
-ext,TLC English(Airtel),https://load.airtelxstream.in/tlcenglish/smil:common.smil/manifest.mpd
-ext,TLC HD World(Airtel),https://load.airtelxstream.in/tlchdworld/smil:common.smil/manifest.mpd
-
-group,English Movies
-ext,HBO(Airtel),https://load.airtelxstream.in/hbo/smil:common.smil/manifest.mpd
-ext,HBO HD(Airtel),https://load.airtelxstream.in/hbohd/smil:common.smil/manifest.mpd
-ext,SONY PIX HD(Airtel),https://load.airtelxstream.in/pixhd/smil:common.smil/manifest.mpd
-ext,SONY PIX SD(Airtel),https://load.airtelxstream.in/pix/smil:common.smil/manifest.mpd
-ext,WB(Airtel),https://load.airtelxstream.in/wb/smil:common.smil/manifest.mpd
-
-group,English News
-ext,Al Jazeera English(Airtel),https://load.airtelxstream.in/aljazeera/smil:common.smil/playlist.m3u8?DVR
-ext,CNBC TV18(Airtel),https://load.airtelxstream.in/cnbctv18/smil:common.smil/manifest.mpd
-ext,CNN(Airtel),https://load.airtelxstream.in/cnninternational/smil:common.smil/manifest.mpd
-ext,CNN News18(Airtel),https://load.airtelxstream.in/cnnnews18/smil:common.smil/manifest.mpd
-ext,DD India(Airtel),https://load.airtelxstream.in/ddindia/smil:common.smil/playlist.m3u8?DVR
-ext,DD News(Airtel),https://load.airtelxstream.in/ddnews/smil:common.smil/playlist.m3u8?DVR
-ext,ET Now(Airtel),https://load.airtelxstream.in/etnow/smil:common.smil/manifest.mpd
-ext,Mirror Now(Airtel),https://load.airtelxstream.in/mirrornow/smil:common.smil/playlist.m3u8?DVR
-ext,NDTV 24x7(Airtel),https://load.airtelxstream.in/ndtv24x7/smil:common.smil/playlist.m3u8?DVR
-ext,NDTV Profit Prime(Airtel),https://load.airtelxstream.in/ndtvprofitprime/smil:common.smil/playlist.m3u8?DVR
-ext,RSTV(Airtel),https://load.airtelxstream.in/rstv/smil:common.smil/playlist.m3u8?DVR
-ext,RT(Airtel),https://load.airtelxstream.in/rt/smil:common.smil/playlist.m3u8?DVR
-ext,Times Now(Airtel),https://load.airtelxstream.in/timesnow/smil:common.smil/playlist.m3u8?DVR
-ext,Times Now World(Airtel),https://load.airtelxstream.in/timesnowhd/smil:common.smil/playlist.m3u8?DVR
-ext,WION(Airtel),https://load.airtelxstream.in/wion/smil:common.smil/playlist.m3u8?DVR
-
-group,English Religious
-ext,God TV(Airtel),https://load.airtelxstream.in/godtv/smil:common.smil/playlist.m3u8?DVR
-ext,Goodnews TV(Airtel),https://load.airtelxstream.in/goodnewstv/smil:common.smil/playlist.m3u8?DVR
-
-group,English Sports
-ext,EUROSPORT(Airtel),https://load.airtelxstream.in/dsport/smil:common.smil/manifest.mpd
-ext,SONY SIX(Airtel),https://load.airtelxstream.in/sonysix/smil:common.smil/manifest.mpd
-ext,SONY SIX HD(Airtel),https://load.airtelxstream.in/sonysixhd/smil:common.smil/manifest.mpd
-ext,Sony Ten 1(Airtel),https://load.airtelxstream.in/sonyten1/smil:common.smil/playlist.m3u8?DVR
-ext,Sony Ten 1 HD(Airtel),https://load.airtelxstream.in/sonyten1hd/smil:common.smil/playlist.m3u8?DVR
-ext,Sony Ten 2(Airtel),https://load.airtelxstream.in/sonyten2sd/smil:common.smil/manifest.mpd
-ext,Sony Ten 2 HD(Airtel),https://load.airtelxstream.in/sonyten2hd/smil:common.smil/manifest.mpd
-ext,Sony Ten 3(Airtel),https://load.airtelxstream.in/sonyten3/smil:common.smil/playlist.m3u8?DVR
-
-group,Malayalam Entertainment
-ext,Amrita TV(Airtel),https://load.airtelxstream.in/amritatv/smil:common.smil/playlist.m3u8?DVR
-ext,DD Malayalam(Airtel),https://load.airtelxstream.in/ddmalayalam/smil:common.smil/playlist.m3u8?DVR
-ext,Flowers TV(Airtel),https://load.airtelxstream.in/flowerstv/smil:common.smil/playlist.m3u8?DVR
-ext,Kairali TV(Airtel),https://load.airtelxstream.in/kairalitv/smil:common.smil/playlist.m3u8?DVR
-ext,Kairali We(Airtel),https://load.airtelxstream.in/kairaliwe/smil:common.smil/playlist.m3u8?DVR
-ext,Mazhavil Manorama(Airtel),https://load.airtelxstream.in/mazhavilmanorama/smil:common.smil/playlist.m3u8?DVR
-ext,Mazhavil Manorama HD(Airtel),https://load.airtelxstream.in/mazhavilmanoramahd/smil:common.smil/playlist.m3u8?DVR
-ext,Surya Comedy(Airtel),https://load.airtelxstream.in/suryacomedy/smil:common.smil/manifest.mpd
-ext,Surya HD(Airtel),https://load.airtelxstream.in/suryahd/smil:common.smil/manifest.mpd
-ext,Surya TV(Airtel),https://load.airtelxstream.in/suryatv/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Keralam(Airtel),https://load.airtelxstream.in/zeekeralam/smil:common.smil/manifest.mpd
-
-group,Malayalam Kids
-ext,Kochu TV(Airtel),https://load.airtelxstream.in/kochutv/smil:common.smil/manifest.mpd
-
-group,Malayalam Music
-ext,Kappa TV(Airtel),https://load.airtelxstream.in/kappatv/smil:common.smil/playlist.m3u8?DVR
-ext,Surya Music(Airtel),https://load.airtelxstream.in/suryamusic/smil:common.smil/playlist.m3u8?DVR
-
-group,Malayalam News
-ext,Asianet News(Airtel),https://load.airtelxstream.in/asianetnews/smil:common.smil/playlist.m3u8?DVR
-ext,Manorama News(Airtel),https://load.airtelxstream.in/manoramanews/smil:common.smil/playlist.m3u8?DVR
-ext,Mathrubhumi News(Airtel),https://load.airtelxstream.in/mathrubhuminews/smil:common.smil/playlist.m3u8?DVR
-ext,MediaOne(Airtel),https://load.airtelxstream.in/mediaone/smil:common.smil/playlist.m3u8?DVR
-ext,News18 Kerala(Airtel),https://load.airtelxstream.in/news18kerala/smil:common.smil/manifest.mpd
-
-group,Malayalam Religious
-ext,Goodness TV(Airtel),https://load.airtelxstream.in/goodnesstv/smil:common.smil/playlist.m3u8?DVR
-
-group,Hindi Entertainment
-ext,& TV(Airtel),https://load.airtelxstream.in/andtv/smil:common.smil/manifest.mpd
-ext,& TV HD(Airtel),https://load.airtelxstream.in/tvhd/smil:common.smil/manifest.mpd
-ext,BIG Magic(Airtel),https://load.airtelxstream.in/bigmagic/smil:common.smil/manifest.mpd
-ext,Colors(Airtel),https://load.airtelxstream.in/colors/smil:common.smil/manifest.mpd
-ext,Colors HD(Airtel),https://load.airtelxstream.in/colorshd/smil:common.smil/manifest.mpd
-ext,Colors Rishtey(Airtel),https://load.airtelxstream.in/colorsrishtey/smil:common.smil/manifest.mpd
-ext,Dangal(Airtel),https://load.airtelxstream.in/dangal/smil:common.smil/playlist.m3u8?DVR
-ext,DD Bharati(Airtel),https://load.airtelxstream.in/ddbharati/smil:common.smil/playlist.m3u8?DVR
-ext,DD Bihar(Airtel),https://load.airtelxstream.in/ddbihar/smil:common.smil/playlist.m3u8?DVR
-ext,DD Kashir(Airtel),https://load.airtelxstream.in/ddkashir/smil:common.smil/playlist.m3u8?DVR
-ext,DD Kisan(Airtel),https://load.airtelxstream.in/ddkisan/smil:common.smil/playlist.m3u8?DVR
-ext,DD Madhya Pradesh(Airtel),https://load.airtelxstream.in/ddmp/smil:common.smil/playlist.m3u8?DVR
-ext,DD National(Airtel),https://load.airtelxstream.in/dd1/smil:common.smil/playlist.m3u8?DVR
-ext,DD UP(Airtel),https://load.airtelxstream.in/ddup/smil:common.smil/playlist.m3u8?DVR
-ext,E24(Airtel),https://load.airtelxstream.in/e24/smil:common.smil/playlist.m3u8?DVR
-ext,Investigation Discovery(Airtel),https://load.airtelxstream.in/jeetprime/smil:common.smil/manifest.mpd?DVR
-ext,Investigation Discovery HD(Airtel),https://load.airtelxstream.in/discoveryjeethd/smil:common.smil/manifest.mpd
-ext,SET(Airtel),https://load.airtelxstream.in/set/smil:common.smil/manifest.mpd
-ext,SET HD(Airtel),https://load.airtelxstream.in/sethd/smil:common.smil/manifest.mpd
-ext,SONY PAL(Airtel),https://load.airtelxstream.in/sonypal/smil:common.smil/manifest.mpd
-ext,Sony SAB(Airtel),https://load.airtelxstream.in/sonysab/smil:common.smil/manifest.mpd
-ext,Sony SAB HD(Airtel),https://load.airtelxstream.in/sabhd/smil:common.smil/manifest.mpd
-ext,The QYOU(Airtel),https://load.airtelxstream.in/theqyou/smil:common.smil/playlist.m3u8
-ext,Zee Anmol(Airtel),https://load.airtelxstream.in/zeeanmol/smil:common.smil/manifest.mpd
-ext,Zee TV(Airtel),https://load.airtelxstream.in/zeesd/smil:common.smil/manifest.mpd
-ext,Zee TV HD(Airtel),https://load.airtelxstream.in/zeetvhd/smil:common.smil/manifest.mpd
-ext,Zoom(Airtel),https://load.airtelxstream.in/zoom/smil:common.smil/manifest.mpd
-
-group,Hindi Infotainment
-ext,Animal Planet HD World(Airtel),https://load.airtelxstream.in/animalplanethdworldhindi/smil:common.smil/manifest.mpd
-ext,Discovery(Airtel),https://load.airtelxstream.in/discoverychannel/smil:common.smil/manifest.mpd
-ext,Discovery HD World Hindi(Airtel),https://load.airtelxstream.in/discoveryhdworldhindi/smil:common.smil/manifest.mpd
-ext,Discovery Science Hindi(Airtel),https://load.airtelxstream.in/discoverysciencehindi/smil:common.smil/manifest.mpd
-ext,SONY BBC Earth(Airtel),https://load.airtelxstream.in/sonybbcearth/smil:common.smil/manifest.mpd
-ext,SONY BBC Earth HD(Airtel),https://load.airtelxstream.in/sonybbcearthhd/smil:common.smil/manifest.mpd
-
-group,Hindi Kids
-ext,Nick(Airtel),https://load.airtelxstream.in/nick/smil:common.smil/manifest.mpd
-ext,SONY YAY(Airtel),https://load.airtelxstream.in/sonyyay/smil:common.smil/manifest.mpd
-
-group,Hindi Lifestyle
-ext,NDTV Good Times(Airtel),https://load.airtelxstream.in/ndtvgoodtimeshindi/smil:common.smil/playlist.m3u8?DVR
-ext,TLC HD World(Airtel),https://load.airtelxstream.in/tlchdworldhi/smil:common.smil/manifest.mpd
-
-group,Hindi Movies
-ext,& Pictures(Airtel),https://load.airtelxstream.in/andpictures/smil:common.smil/manifest.mpd
-ext,& Pictures HD(Airtel),https://load.airtelxstream.in/pictureshd/smil:common.smil/manifest.mpd
-ext,B4U Kadak(Airtel),https://load.airtelxstream.in/moviehouseb4ukadak/smil:common.smil/playlist.m3u8?DVR
-ext,Cinema TV India(Airtel),https://load.airtelxstream.in/cinematvindia/smil:common.smil/playlist.m3u8?DVR
-ext,Colors Cineplex(Airtel),https://load.airtelxstream.in/colorscineplex/smil:common.smil/manifest.mpd
-ext,Colors Cineplex HD(Airtel),https://load.airtelxstream.in/colorscineplexhd/smil:common.smil/manifest.mpd
-ext,Enterr10 Movies(Airtel),https://load.airtelxstream.in/enterr10/smil:common.smil/playlist.m3u8?DVR
-ext,SONY MAX(Airtel),https://load.airtelxstream.in/sonymax/smil:common.smil/playlist.m3u8?DVR
-ext,SONY MAX 2(Airtel),https://load.airtelxstream.in/sonymax2/smil:common.smil/playlist.m3u8?DVR
-ext,SONY MAX HD(Airtel),https://load.airtelxstream.in/sonymaxhd/smil:common.smil/manifest.mpd
-ext,Sony Wah(Airtel),https://load.airtelxstream.in/sonywah/smil:common.smil/playlist.m3u8?DVR
-ext,WOW Cinema One(Airtel),https://load.airtelxstream.in/wowcinema/smil:common.smil/manifest.mpd
-ext,Zee Action(Airtel),https://load.airtelxstream.in/zeeaction/smil:common.smil/manifest.mpd
-ext,Zee Bollywood(Airtel),https://load.airtelxstream.in/zeebollywood/smil:common.smil/manifest.mpd
-ext,Zee Cinema(Airtel),https://load.airtelxstream.in/zeecinema/smil:common.smil/manifest.mpd
-ext,Zee Cinema HD(Airtel),https://load.airtelxstream.in/zeecinemahd/smil:common.smil/manifest.mpd
-
-group,Hindi Music
-ext,9X Jalwa(Airtel),https://load.airtelxstream.in/9xjalwa/smil:common.smil/playlist.m3u8?DVR
-ext,9XM(Airtel),https://load.airtelxstream.in/9xm/smil:common.smil/playlist.m3u8?DVR
-ext,Mastiii(Airtel),https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8?DVR
-ext,MTV(Airtel),https://load.airtelxstream.in/mtv/smil:common.smil/manifest.mpd
-ext,MTV Beats(Airtel),https://load.airtelxstream.in/mtvbeats/smil:common.smil/manifest.mpd
-ext,Z ETC Bollywood(Airtel),https://load.airtelxstream.in/zetcbollywood/smil:common.smil/manifest.mpd
-ext,Zing(Airtel),https://load.airtelxstream.in/zing/smil:common.smil/manifest.mpd
-
-group,Hindi News
-ext,A1 TV(Airtel),https://load.airtelxstream.in/a1tv/smil:common.smil/playlist.m3u8?DVR
-ext,ABP News(Airtel),https://load.airtelxstream.in/abpnews/smil:common.smil/playlist.m3u8?DVR
-ext,CNBC-Awaaz(Airtel),https://load.airtelxstream.in/cnbcawaaz/smil:common.smil/manifest.mpd
-ext,First India News Rajasthan(Airtel),https://load.airtelxstream.in/firstindianewsrajasthan/smil:common.smil/playlist.m3u8?DVR
-ext,India News(Airtel),https://load.airtelxstream.in/indianews/smil:common.smil/playlist.m3u8?DVR
-ext,India TV(Airtel),https://load.airtelxstream.in/indiatv/smil:common.smil/playlist.m3u8?DVR
-ext,Jan TV(Airtel),https://load.airtelxstream.in/jantv/smil:common.smil/playlist.m3u8?DVR
-ext,K News 24X7(Airtel),https://load.airtelxstream.in/knews/smil:common.smil/playlist.m3u8?DVR
-ext,Loksabha TV(Airtel),https://load.airtelxstream.in/loksabhatv/smil:common.smil/playlist.m3u8?DVR
-ext,NDTV India(Airtel),https://load.airtelxstream.in/ndtvindia/smil:common.smil/playlist.m3u8?DVR
-ext,Network 10(Airtel),https://load.airtelxstream.in/network10/smil:common.smil/playlist.m3u8?DVR
-ext,NEWS18 BIHAR/JHARKHAND(Airtel),https://load.airtelxstream.in/news18bihar/smil:common.smil/manifest.mpd
-ext,News18 India(Airtel),https://load.airtelxstream.in/news18india/smil:common.smil/manifest.mpd
-ext,NEWS18 MADHYA PRADESH/CHHATTISGARH(Airtel),https://load.airtelxstream.in/news18mp/smil:common.smil/manifest.mpd
-ext,NEWS18 PUNJAB/HARYANA/HIMACHAL PRADESH(Airtel),https://load.airtelxstream.in/news18punjab/smil:common.smil/manifest.mpd
-ext,NEWS18 RAJASTHAN(Airtel),https://load.airtelxstream.in/news18rajasthan/smil:common.smil/manifest.mpd
-ext,NEWS18 UTTAR PRADESH/UTTARAKHAND(Airtel),https://load.airtelxstream.in/news18up/smil:common.smil/manifest.mpd
-ext,News24(Airtel),https://load.airtelxstream.in/news24/smil:common.smil/playlist.m3u8?DVR
-ext,TV9 Bharatvarsh(Airtel),https://load.airtelxstream.in/tv9bharatvarsh/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Bihar Jharkhand(Airtel),https://load.airtelxstream.in/zeebiharjh/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Business(Airtel),https://load.airtelxstream.in/zeebusiness/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Madhya Pradesh Chhattisgarh(Airtel),https://load.airtelxstream.in/zeempch/smil:common.smil/playlist.m3u8?DVR
-ext,Zee News(Airtel),https://load.airtelxstream.in/zeenews/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Rajasthan News(Airtel),https://load.airtelxstream.in/zeerajasthan/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Uttar Pradesh Uttarakhand(Airtel),https://load.airtelxstream.in/zeeup/smil:common.smil/playlist.m3u8?DVR
-
-group,Hindi Religious
-ext,Arihant(Airtel),https://load.airtelxstream.in/arihant/smil:common.smil/playlist.m3u8?DVR
-ext,Divya TV(Airtel),https://load.airtelxstream.in/divyatv/smil:common.smil/playlist.m3u8?DVR
-ext,Ishwar TV(Airtel),https://load.airtelxstream.in/ishwar/smil:common.smil/playlist.m3u8?DVR
-ext,Jinvani TV(Airtel),https://load.airtelxstream.in/jinvanitv/smil:common.smil/playlist.m3u8?DVR
-ext,MH One Shraddha(Airtel),https://load.airtelxstream.in/mhoneshraddha/smil:common.smil/playlist.m3u8?DVR
-ext,Paras Gold(Airtel),https://load.airtelxstream.in/parastv/smil:common.smil/playlist.m3u8?DVR
-ext,Peace of Mind(Airtel),https://load.airtelxstream.in/peaceofmind/smil:common.smil/playlist.m3u8?DVR
-ext,Sanskar(Airtel),https://load.airtelxstream.in/sanskar/smil:common.smil/playlist.m3u8?DVR
-ext,Satsang(Airtel),https://load.airtelxstream.in/satsang/smil:common.smil/playlist.m3u8?DVR
-ext,Shubh TV(Airtel),https://load.airtelxstream.in/shubhtv/smil:common.smil/playlist.m3u8?DVR
-ext,Shubhsandesh TV(Airtel),https://load.airtelxstream.in/shubhsandeshtv/smil:common.smil/playlist.m3u8?DVR
-ext,Subharti TV(Airtel),https://load.airtelxstream.in/subharti/smil:common.smil/playlist.m3u8?DVR
-
-group,Hindi Sports
-ext,Sony Ten 3 HD(Airtel),https://load.airtelxstream.in/sonyten3hd/smil:common.smil/playlist.m3u8?DVR
-
-group,Telugu Educational
-ext,Nipuna(Airtel),https://load.airtelxstream.in/nipuna/smil:common.smil/playlist.m3u8?DVR
-ext,Vidya(Airtel),https://load.airtelxstream.in/vidhya/smil:common.smil/playlist.m3u8?DVR
-
-group,Telugu Entertainment
-ext,DD Saptagiri(Airtel),https://load.airtelxstream.in/ddsaptagiri/smil:common.smil/playlist.m3u8?DVR
-ext,DD Yadagiri(Airtel),https://load.airtelxstream.in/ddyadagiri/smil:common.smil/playlist.m3u8?DVR
-ext,ETV HD(Airtel),https://load.airtelxstream.in/etvhd/smil:common.smil/manifest.mpd
-ext,ETV Telugu(Airtel),https://load.airtelxstream.in/etvtelugu/smil:common.smil/manifest.mpd
-ext,Gemini Comedy(Airtel),https://load.airtelxstream.in/geminicomedy/smil:common.smil/manifest.mpd
-ext,Gemini TV(Airtel),https://load.airtelxstream.in/geminitv/smil:common.smil/playlist.m3u8?DVR
-ext,Gemini TV HD(Airtel),https://load.airtelxstream.in/geminitvhd/smil:common.smil/manifest.mpd
-ext,Vissa TV(Airtel),https://load.airtelxstream.in/vissatv/smil:common.smil/manifest.mpd
-ext,Zee Telugu(Airtel),https://load.airtelxstream.in/zeetelugu/smil:common.smil/manifest.mpd
-ext,Zee Telugu HD(Airtel),https://load.airtelxstream.in/zeeteleguhd/smil:common.smil/manifest.mpd
-
-group,Telugu Infotainment
-ext,Discovery Channel Telugu(Airtel),https://load.airtelxstream.in/discoverychanneltelugu/smil:common.smil/manifest.mpd
-
-group,Telugu Kids
-ext,Kushi TV(Airtel),https://load.airtelxstream.in/kushitv/smil:common.smil/manifest.mpd
-ext,SONY YAY(Airtel),https://load.airtelxstream.in/sonyyaytelugu/smil:common.smil/playlist.m3u8?DVR
-
-group,Telugu Lifestyle
-ext,ETV Abhiruchi(Airtel),https://load.airtelxstream.in/etvabhiruchi/smil:common.smil/manifest.mpd
-ext,ETV Life(Airtel),https://load.airtelxstream.in/etvlife/smil:common.smil/manifest.mpd
-
-group,Telugu Movies
-ext,ETV Cinema(Hotstar),https://load.airtelxstream.in/etvcinema/smil:common.smil/manifest.mpd
-ext,Gemini Movies(Hotstar),https://load.airtelxstream.in/geminimovies/smil:common.smil/manifest.mpd
-ext,Gemini Movies HD(Hotstar),https://load.airtelxstream.in/geminimovieshd/smil:common.smil/manifest.mpd
-ext,Zee Cinemalu(Hotstar),https://load.airtelxstream.in/zeecinemalu/smil:common.smil/manifest.mpd
-ext,Zee Cinemalu HD(Hotstar),https://load.airtelxstream.in/zeecinemaluhd/smil:common.smil/manifest.mpd
-
-group,Telugu Music
-ext,Gemini Life(Airtel),https://load.airtelxstream.in/geminilife/smil:common.smil/manifest.mpd
-ext,Gemini Music HD(Airtel),https://load.airtelxstream.in/geminimusichd/smil:common.smil/manifest.mpd
-ext,Raj Musix Telugu(Airtel),https://load.airtelxstream.in/rajmusixtelugu/smil:common.smil/manifest.mpd
-
-group,Telugu News
-ext,10TV(Airtel),https://load.airtelxstream.in/10tvtelugunews/smil:common.smil/playlist.m3u8?DVR
-ext,ABN Telugu News(Airtel),https://load.airtelxstream.in/abntelugunews/smil:common.smil/playlist.m3u8?DVR
-ext,ETV Andhra Pradesh(Airtel),https://load.airtelxstream.in/etvandhrapradesh/smil:common.smil/manifest.mpd
-ext,ETV Telangana(Airtel),https://load.airtelxstream.in/etvtelangana/smil:common.smil/manifest.mpd
-ext,NTV(Airtel),https://load.airtelxstream.in/ntv/smil:common.smil/playlist.m3u8?DVR
-ext,Raj News Telugu(Airtel),https://load.airtelxstream.in/rajnewstelugu/smil:common.smil/playlist.m3u8?DVR
-ext,Sakshi TV(Airtel),https://load.airtelxstream.in/sakshitv/smil:common.smil/playlist.m3u8?DVR
-ext,Suvarna News(Airtel),https://load.airtelxstream.in/suvarnanews/smil:common.smil/playlist.m3u8?DVR
-ext,T News(Airtel),https://load.airtelxstream.in/tnews/smil:common.smil/playlist.m3u8?DVR
-ext,TV5 Telugu(Airtel),https://load.airtelxstream.in/tv5telugu/smil:common.smil/playlist.m3u8?DVR
-ext,TV9 Telugu News(Airtel),https://load.airtelxstream.in/tv9telugunews/smil:common.smil/playlist.m3u8?DVR
-ext,V6 News(Airtel),https://load.airtelxstream.in/v6news/smil:common.smil/playlist.m3u8?DVR
-
-group,Telugu Religious
-ext,Aradana TV(Airtel),https://load.airtelxstream.in/aradanatv/smil:common.smil/manifest.mpd
-ext,Bhakti TV(Airtel),https://load.airtelxstream.in/bhaktitv/smil:common.smil/playlist.m3u8?DVR
-ext,Subhavaartha(Airtel),https://load.airtelxstream.in/subhavaartha/smil:common.smil/playlist.m3u8?DVR
-
-group,Kannada Entertainment
-ext,Airtel Customer Care 2(Airtel),https://load.airtelxstream.in/discoverychannelenglish/smil:common.smil/manifest.mpd
-ext,Colors Kannada(Airtel),https://load.airtelxstream.in/colorskannada/smil:common.smil/manifest.mpd
-ext,Colors Kannada HD(Airtel),https://load.airtelxstream.in/colorskannadahd/smil:common.smil/manifest.mpd
-ext,Colors Super(Airtel),https://load.airtelxstream.in/colorssuper/smil:common.smil/manifest.mpd
-ext,DD Chandana(Airtel),https://load.airtelxstream.in/ddchandana/smil:common.smil/playlist.m3u8?DVR
-ext,Udaya Comedy(Airtel),https://load.airtelxstream.in/udayacomedy/smil:common.smil/playlist.m3u8?DVR
-ext,Udaya HD(Airtel),https://load.airtelxstream.in/udayahd/smil:common.smil/playlist.m3u8?DVR
-ext,Udaya TV(Airtel),https://load.airtelxstream.in/udayatv/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Kannada(Airtel),https://load.airtelxstream.in/zeekannada/smil:common.smil/manifest.mpd
-ext,Zee Kannada HD(Airtel),https://load.airtelxstream.in/zeekannadahd/smil:common.smil/manifest.mpd
-
-group,Kannada Kids
-ext,Chintu TV(Airtel),https://load.airtelxstream.in/chintutv/smil:common.smil/manifest.mpd
-
-group,Kannada Movies
-ext,Colors Kannada Cinema(Airtel),https://load.airtelxstream.in/colorskannadacinema/smil:common.smil/manifest.mpd
-ext,Public Movies(Airtel),https://load.airtelxstream.in/publicmovies/smil:common.smil/playlist.m3u8?DVR
-ext,Udaya Movies(Airtel),https://load.airtelxstream.in/udayamovies/smil:common.smil/playlist.m3u8?DVR
-
-group,Kannada Music
-ext,Raj Musix Kannada(Airtel),https://load.airtelxstream.in/rajmusixkannada/smil:common.smil/playlist.m3u8?DVR
-ext,Udaya Music(Airtel),https://load.airtelxstream.in/udayamusic/smil:common.smil/playlist.m3u8?DVR
-
-group,Kannada News
-ext,BTV(Airtel),https://load.airtelxstream.in/btvnews24x7/smil:common.smil/playlist.m3u8?DVR
-ext,Dighvijay News 24X7(Airtel),https://load.airtelxstream.in/dighvijaynews24x7/smil:common.smil/playlist.m3u8?DVR
-ext,News18 Kannada(Airtel),https://load.airtelxstream.in/news18kannada/smil:common.smil/manifest.mpd
-ext,Public TV(Airtel),https://load.airtelxstream.in/publictv/smil:common.smil/playlist.m3u8?DVR
-ext,Raj News Kannada(Airtel),https://load.airtelxstream.in/rajnewskannada/smil:common.smil/playlist.m3u8?DVR
-ext,TV9 Kannada(Airtel),https://load.airtelxstream.in/tv9kannada/smil:common.smil/playlist.m3u8?DVR
-
-group,Bhojpuri Entertainment
-ext,Anjan TV(Airtel),https://load.airtelxstream.in/anjantv/smil:common.smil/playlist.m3u8?DVR
-ext,Big Ganga(Airtel),https://load.airtelxstream.in/bigganga/smil:common.smil/manifest.mpd
-ext,Dishum(Airtel),https://load.airtelxstream.in/dishum/smil:common.smil/manifest.mpd
-
-group,Bhojpuri Movies
-ext,Bhojpuri Cinema(Hotstar),https://load.airtelxstream.in/bhojpuricinema/smil:common.smil/playlist.m3u8?DVR
-ext,Dabangg TV(Hotstar),https://load.airtelxstream.in/dabanggtv/smil:common.smil/playlist.m3u8?DVR
-
-group,Bhojpuri Music
-ext,Sangeet Bhojpuri(Airtel),https://load.airtelxstream.in/sangeetbhojpuri/smil:common.smil/playlist.m3u8?DVR
-
-group,Gujarati Entertainment
-ext,Colors Gujarati(Airtel),https://load.airtelxstream.in/colorsgujarati/smil:common.smil/manifest.mpd
-ext,DD Girnar(Airtel),https://load.airtelxstream.in/ddgirnar/smil:common.smil/playlist.m3u8?DVR
-
-group,Gujarati Movies
-ext,Colors Gujarati Cinema(Airtel),https://load.airtelxstream.in/colorsgujaraticinema/smil:common.smil/manifest.mpd
-
-group,Gujarati News
-ext,ABP Asmita(Airtel),https://load.airtelxstream.in/abpasmita/smil:common.smil/playlist.m3u8?DVR
-ext,CNBC Bajar(Airtel),https://load.airtelxstream.in/cnbcbajaar/smil:common.smil/manifest.mpd
-ext,News18 Gujarati(Airtel),https://load.airtelxstream.in/news18gujarati/smil:common.smil/manifest.mpd
-ext,Sandesh News(Airtel),https://load.airtelxstream.in/sandeshnews/smil:common.smil/playlist.m3u8?DVR
-ext,TV9 Gujarati(Airtel),https://load.airtelxstream.in/tv9gujarati/smil:common.smil/playlist.m3u8?DVR
-ext,VTV Gujarati(Airtel),https://load.airtelxstream.in/vtvgujarati/smil:common.smil/playlist.m3u8?DVR
-ext,Zee 24 Kalak(Airtel),https://load.airtelxstream.in/zee24kalak/smil:common.smil/playlist.m3u8?DVR
-
-group,Bengali Entertainment
-ext,Colors Bangla(Airtel),https://load.airtelxstream.in/colorsbangla/smil:common.smil/manifest.mpd
-ext,Colors Bangla HD(Airtel),https://load.airtelxstream.in/colorsbanglahd/smil:common.smil/manifest.mpd
-ext,CTVN AKD Plus(Airtel),https://load.airtelxstream.in/ctvnakdplus/smil:common.smil/manifest.mpd
-ext,DD Bangla(Airtel),https://load.airtelxstream.in/ddbangla/smil:common.smil/playlist.m3u8?DVR
-ext,Ruposhi Bangla TV(Airtel),https://load.airtelxstream.in/ruposhibanglatv/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Bangla(Airtel),https://load.airtelxstream.in/zeebangla/smil:common.smil/manifest.mpd
-ext,Zee Bangla HD(Airtel),https://load.airtelxstream.in/zeebanglahd/smil:common.smil/manifest.mpd
-
-group,Bengali Infotainment
-ext,Discovery Channel Bengali(Airtel),https://load.airtelxstream.in/discoverychannelbengali/smil:common.smil/manifest.mpd
-
-group,Bengali Movies
-ext,Sony AATH(Airtel),https://load.airtelxstream.in/sonyaath/smil:common.smil/manifest.mpd
-ext,Zee Bangla Cinema(Airtel),https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/playlist.m3u8?DVR
-
-group,Bengali Music
-ext,Dhoom Music(Airtel),https://load.airtelxstream.in/dhoommusic/smil:common.smil/playlist.m3u8?DVR
-ext,Sangeet Bangla(Airtel),https://load.airtelxstream.in/sangeetbangla/smil:common.smil/manifest.mpd
-
-group,Bengali News
-ext,ABP Ananda(Airtel),https://load.airtelxstream.in/abpananda/smil:common.smil/playlist.m3u8?DVR
-ext,Calcutta News(Airtel),https://load.airtelxstream.in/calcuttanewscnnews/smil:common.smil/playlist.m3u8?DVR
-ext,Kolkata TV(Airtel),https://load.airtelxstream.in/kolkatatv/smil:common.smil/playlist.m3u8?DVR
-ext,News Time Bangla(Airtel),https://load.airtelxstream.in/newstimebangla/smil:common.smil/playlist.m3u8?DVR
-ext,News18 Bangla(Airtel),https://load.airtelxstream.in/news18bangla/smil:common.smil/manifest.mpd
-ext,Zee 24 Ghanta(Airtel),https://load.airtelxstream.in/zee24ghanta/smil:common.smil/playlist.m3u8?DVR
-
-group,Marathi Entertainment
-ext,Colors Marathi(Airtel),https://load.airtelxstream.in/colorsmarathi/smil:common.smil/manifest.mpd
-ext,Colors Marathi HD(Airtel),https://load.airtelxstream.in/colorsmarathihd/smil:common.smil/manifest.mpd
-ext,DD Sahyadri(Airtel),https://load.airtelxstream.in/ddsahyadri/smil:common.smil/playlist.m3u8?DVR
-ext,Sony Marathi(Airtel),https://load.airtelxstream.in/sonymarathi/smil:common.smil/manifest.mpd
-ext,Zee Marathi(Airtel),https://load.airtelxstream.in/zeemarathi/smil:common.smil/manifest.mpd
-ext,Zee Marathi HD(Airtel),https://load.airtelxstream.in/zeemarathihd/smil:common.smil/manifest.mpd
-ext,Zee Yuva(Airtel),https://load.airtelxstream.in/zeeyuva/smil:common.smil/manifest.mpd
-
-group,Marathi Movies
-ext,Zee Talkies(Airtel),https://load.airtelxstream.in/zeetalkies/smil:common.smil/manifest.mpd
-ext,Zee Talkies HD(Airtel),https://load.airtelxstream.in/zeetalkieshd/smil:common.smil/manifest.mpd
-
-group,Marathi Music
-ext,9X Jhakaas(Airtel),https://load.airtelxstream.in/9xjhakaas/smil:common.smil/playlist.m3u8?DVR
-ext,Maiboli(Airtel),https://load.airtelxstream.in/maiboli/smil:common.smil/manifest.mpd
-ext,Sangeet Marathi(Airtel),https://load.airtelxstream.in/sangeetmarathi/smil:common.smil/playlist.m3u8
-
-group,Marathi News
-ext,ABP Majha(Airtel),https://load.airtelxstream.in/abpmajha/smil:common.smil/playlist.m3u8?DVR
-ext,News18 Lokmat(Airtel),https://load.airtelxstream.in/news18lokmat/smil:common.smil/manifest.mpd
-ext,Saam TV(Airtel),https://load.airtelxstream.in/saamtv/smil:common.smil/playlist.m3u8?DVR
-ext,TV9 Marathi(Airtel),https://load.airtelxstream.in/tv9marathi/smil:common.smil/playlist.m3u8?DVR
-ext,Zee 24 Taas(Airtel),https://load.airtelxstream.in/zee24taas/smil:common.smil/playlist.m3u8?DVR
-
-group,Odia Entertainment
-ext,Colors Odia(Airtel),https://load.airtelxstream.in/colorsoriya/smil:common.smil/manifest.mpd
-ext,DD Oriya(Airtel),https://load.airtelxstream.in/ddoriya/smil:common.smil/playlist.m3u8?DVR
-ext,MANJARI(Airtel),https://load.airtelxstream.in/manjari/smil:common.smil/playlist.m3u8?DVR
-ext,MBC TV(Airtel),https://load.airtelxstream.in/mbctv/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Sarthak(Airtel),https://load.airtelxstream.in/zeesarthak/smil:common.smil/manifest.mpd
-
-group,Odia News
-ext,Kalinga TV(Airtel),https://load.airtelxstream.in/kalingatv/smil:common.smil/playlist.m3u8?DVR
-ext,Kanak News(Airtel),https://load.airtelxstream.in/kanaknews/smil:common.smil/playlist.m3u8?DVR
-ext,News18 Odia(Airtel),https://load.airtelxstream.in/news18oriya/smil:common.smil/manifest.mpd
-ext,Zee Odisha(Airtel),https://load.airtelxstream.in/zeeodisha/smil:common.smil/playlist.m3u8?DVR
-
-group,Punjabi Entertainment
-ext,DD Punjabi(Airtel),https://load.airtelxstream.in/ddpunjabi/smil:common.smil/playlist.m3u8?DVR
-
-group,Punjabi Movies
-ext,Pitaara(Airtel),https://load.airtelxstream.in/pitaaratv/smil:common.smil/playlist.m3u8?DVR
-
-group,Punjabi Music
-ext,9X Tashan(Airtel),https://load.airtelxstream.in/9xtashan/smil:common.smil/playlist.m3u8?DVR
-ext,Balle Balle(Airtel),https://load.airtelxstream.in/balleballe/smil:common.smil/playlist.m3u8?DVR
-ext,MH1(Airtel),https://load.airtelxstream.in/mh1/smil:common.smil/playlist.m3u8?DVR
-
-group,Punjabi News
-ext,ANB NEWS(Airtel),https://load.airtelxstream.in/anbnews/smil:common.smil/playlist.m3u8?DVR
-ext,Gulistan News(Airtel),https://load.airtelxstream.in/gulistannews/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Punjab Haryana Himachal(Airtel),https://load.airtelxstream.in/zeepunjabharyanahimachal/smil:common.smil/playlist.m3u8?DVR
-
-group,Rajasthan Entertainment
-ext,DD Rajasthan(Airtel),https://load.airtelxstream.in/ddrajasthan/smil:common.smil/playlist.m3u8?DVR
-
-group,Assamese Entertainment
-ext,Jonack(Airtel),https://load.airtelxstream.in/jonack/smil:common.smil/playlist.m3u8?DVR
-ext,Rang(Airtel),https://load.airtelxstream.in/rang/smil:common.smil/playlist.m3u8?DVR
-
-group,Assamese Infotainment
-ext,North East Live(Airtel),https://load.airtelxstream.in/northeastlive/smil:common.smil/playlist.m3u8?DVR
-
-group,Assamese Music
-ext,Ramdhenu(Airtel),https://load.airtelxstream.in/ramdhenu/smil:common.smil/playlist.m3u8?DVR
-
-group,Assamese News
-ext,Assam Talks(Airtel),https://load.airtelxstream.in/assamtalks/smil:common.smil/playlist.m3u8?DVR
-ext,DY365(Airtel),https://load.airtelxstream.in/dy365/smil:common.smil/playlist.m3u8?DVR
-ext,News Live(Airtel),https://load.airtelxstream.in/newslive/smil:common.smil/playlist.m3u8?DVR
-ext,NEWS18 ASSAM/NORTH-EAST(Airtel),https://load.airtelxstream.in/news18assam/smil:common.smil/manifest.mpd
-
-group,Urdu Entertainment
-ext,DD Urdu(Airtel),https://load.airtelxstream.in/ddurdu/smil:common.smil/playlist.m3u8?DVR
-ext,NEWS18 URDU(Airtel),https://load.airtelxstream.in/news18urdu/smil:common.smil/manifest.mpd
-
-group,Urdu Religious
-ext,Channel WIN(Airtel),https://load.airtelxstream.in/channelwin/smil:common.smil/playlist.m3u8?DVR
-ext,Tehzeeb TV(Airtel),https://load.airtelxstream.in/tehzeebtv/smil:common.smil/playlist.m3u8?DVR
-ext,Zee Salaam(Airtel),https://load.airtelxstream.in/zeesalaam/smil:common.smil/manifest.mpd
